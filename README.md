@@ -10,3 +10,5 @@ This project allows users to convert text into speech where users can select dif
 1. HTML
 2. CSS
 3. JavaScript
+
+![Screenshot (782)](https://github.com/user-attachments/assets/5599a1d2-9ed2-4157-8873-a72f4c57ab12)
