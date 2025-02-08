@@ -22,7 +22,7 @@ body {
 }
 
 .auth {
-    font-size: 20px;
+    font-size: 22px;
     font-weight: 100;
 }
 
@@ -31,7 +31,7 @@ body {
 }
 
 .hero h1 {
-    font-size: 2.3rem;
+    font-size: 2.5rem;
     font-weight: 500;
     margin-bottom: 20px;
     margin-top: 7px;
@@ -43,7 +43,7 @@ body {
 
 textarea {
     width: 100%;
-    max-width: 500px;
+    max-width: 600px;
     height: 200px;
     background: #403d84;
     color: #fff;
@@ -66,6 +66,7 @@ textarea::placeholder {
     align-items: center;
     justify-content: center;
     gap: 20px;
+    /* Space between elements */
 }
 
 button {
@@ -75,28 +76,28 @@ button {
     padding: 10px 20px;
     border-radius: 35px;
     border: 0;
+    outline: 0;
     cursor: pointer;
     display: flex;
     align-items: center;
 }
 
 button img {
-    width: 22px;
-    height: 22px;
-    margin-right: 4px;
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
 }
 
 select {
     flex: 1;
-    max-width: 330px;
+    max-width: 200px;
     height: 50px;
     color: #fff;
     background: #403d84;
-    padding: 0 50px 0 26px;
+    padding: 0 30px 0 20px;
     border: 0;
     border-radius: 35px;
     appearance: none;
-    cursor: pointer;
     background-image: url('https://clipart-library.com/new_gallery/382-3829213_transparent-social-impact-drop-down-arrow-white.png');
     background-repeat: no-repeat;
     background-size: 15px;
